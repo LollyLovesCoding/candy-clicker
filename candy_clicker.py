@@ -1,5 +1,5 @@
 # Here is our code for our innovative game "Candy Clicker"!
-# Please go check out our readme.md to learn more about our game.
+# Please go check out our README.md to learn more about our game.
 # Also, note that all the code below will not work without image, font, and music downloads. :)
 
 import pygame
