@@ -1,2 +1,3 @@
-# candy-clicker
-Inspired by the classic idle game Cookie Clicker, our game involves luck and skill. You begin as an amateur confectioner who must make lollipops from scratch by clicking the customizable lollipop on the left...
+# Candy Clicker Game
+Inspired by the classic idle game Cookie Clicker, our game involves luck and skill. You begin as an amateur confectioner who must make lollipops from scratch by clicking the customizable lollipop on the left. Unfortunately, you are at risk of eviction due to the recent economic crash, so you only have a set amount of time to confect 10,000 candies (time changes based on the level of difficulty you choose). As you confect more candies, you can trade them in for sweeteners, which will increase your total production. At random times, aura candies will fly down from the sky, and if you click them, you enter one of two possible minigames. If you are successful, you will earn more candies. Good luck... and beat the game before you get evicted!
+
